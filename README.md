@@ -1,6 +1,6 @@
 <h1 align="center" >👋 Hi, I'm Damian. 👋</h1>
 
-- 💼 I'm currently working on my C/C++, OpenCL and Lua/Teal skills.
+- 💼 I'm currently working on my C, OpenCL and Lua/Teal skills.
 - 🌱 I also want to learn Assembly and Vulkan.
 - ❤️ I love embedded and the segfaults that come with it.
 - 🌍 I do not have a [personal website](about:blank) yet.
